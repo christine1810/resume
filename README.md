@@ -1,3 +1,3 @@
 # CV
 
--[CV] (https://christine1810.github.io/CV/CV.pdf)
+-[CV] (https://christine1810.github.io/cv/CV.pdf)
