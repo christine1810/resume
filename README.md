@@ -1,5 +1,5 @@
-# curriculum-vitae
+# resume
 
--[cv] (https://christine1810.github.io/curriculum-vitae/CV.pdf)
+-[resume] (https://christine1810.github.io/resume/CV.pdf)
 
 
